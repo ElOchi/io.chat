@@ -1,4 +1,3 @@
-
 body{
     margin-top:20px;
     background:#ebeef0;
@@ -177,4 +176,11 @@ body{
     opacity: 0;
     -webkit-transition: all .7s;
     transition: all .7s;
+}
+
+/*CHAT*/
+.name{
+width: 100%;
+display: block;
+border-bottom: 1px solid black;
 }
